@@ -4,16 +4,16 @@ A full-stack real-time chat application built with Spring Boot (backend) and Rea
 
 ## Features
 
-- ✅ **Real-time messaging** using WebSocket (STOMP over SockJS)
-- ✅ **Private and group chats** support
-- ✅ **User authentication** with JWT
-- ✅ **User presence** (online/offline/typing indicators)
-- ✅ **File sharing** (images, documents, media)
-- ✅ **Message history** with MongoDB persistence
-- ✅ **Read receipts** and delivery confirmation
-- ✅ **Message editing** capabilities
-- ✅ **Emoji support**
-- ✅ **Responsive UI** with React
+-  **Real-time messaging** using WebSocket (STOMP over SockJS)
+-  **Private and group chats** support
+-  **User authentication** with JWT
+-  **User presence** (online/offline/typing indicators)
+-  **File sharing** (images, documents, media)
+-  **Message history** with MongoDB persistence
+-  **Read receipts** and delivery confirmation
+-  **Message editing** capabilities
+-  **Emoji support**
+-  **Responsive UI** with React
 
 ## Tech Stack
 
